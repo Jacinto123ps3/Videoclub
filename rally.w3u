@@ -6,9 +6,10 @@
 "groups":
 [
 {
-"name": "8 Show",
-"image": "https://pics.filmaffinity.com/the_8_show-257378497-large.jpg",
-"url": "https://videoclub-vert.vercel.app/show.w3u",
+"name": "erc2025",
+"info":"",
+"image": "",
+"url": "https://videoclub-vert.vercel.app/erc2025.w3u",
 "import": false
 }
 ]
