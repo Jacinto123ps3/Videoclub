@@ -4,4 +4,12 @@
 "image": "https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg",
 "url": "https://videoclub-vert.vercel.app/series.w3u",
 "groups":
-    [
+[
+{
+"name": "8 Show",
+"image": "https://pics.filmaffinity.com/the_8_show-257378497-large.jpg",
+"url": "https://videoclub-vert.vercel.app/show.w3u",
+"import": false
+}
+]
+}
