@@ -14,20 +14,20 @@
         {
         "name": "Rally",
         "image": "https://i.postimg.cc/BnSB8xmq/PPV-new.png",
-        "url": "https://videoclub-vert.vercel.app",
+        "url": "https://videoclub-vert.vercel.app/rally.w3u",
         "import": false
         },
         {
         "name": "Peliculas",
         "image": "https://i.postimg.cc/NLqjVwMQ/horus.png",
-        "url": "https://videoclub-vert.vercel.app/",
+        "url": "https://videoclub-vert.vercel.app/peliculas.w3u",
         "info":"bY. lUCas",
         "import": false
         },
         {
         "name": "Documentales",
         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
-        "url": "https://videoclub-vert.vercel.app/",
+        "url": "https://videoclub-vert.vercel.app/documentales.w3u",
         "import": false
         },
         
