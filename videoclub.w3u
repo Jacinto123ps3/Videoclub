@@ -7,26 +7,26 @@
     [
         {
         "name": "Series",
-        "image": "https://i.postimg.cc/GmYjZskk/gui-new.png",
+        "image": "https://th.bing.com/th/id/R.34491659b7f01ff1038e1e195368db9a?rik=K%2fGQUZ2gIQrADg&pid=ImgRaw&r=0",
         "url": "https://videoclub-vert.vercel.app/series.w3u",
         "import": false
         },
         {
         "name": "Rally",
-        "image": "https://i.postimg.cc/BnSB8xmq/PPV-new.png",
+        "image": "https://i.pinimg.com/236x/04/da/bd/04dabd53c1ac13f81a0ff16880a7cc8b.jpg",
         "url": "https://videoclub-vert.vercel.app/rally.w3u",
         "import": false
         },
         {
         "name": "Peliculas",
-        "image": "https://i.postimg.cc/NLqjVwMQ/horus.png",
+        "image": "https://th.bing.com/th/id/OIP.IQauVmk0tZ_AdParP-7vMwHaI9?rs=1&pid=ImgDetMain",
         "url": "https://videoclub-vert.vercel.app/peliculas.w3u",
         "info":"bY. lUCas",
         "import": false
         },
         {
         "name": "Documentales",
-        "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+        "image": "https://th.bing.com/th/id/OIP.BRbSEl2wdGF3YArWrdQj5gHaE8?rs=1&pid=ImgDetMain",
         "url": "https://videoclub-vert.vercel.app/documentales.w3u",
         "import": false
         },
