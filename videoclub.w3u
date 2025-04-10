@@ -7,7 +7,7 @@
     [
         {
         "name": "Series",
-        "image": "https://th.bing.com/th/id/R.34491659b7f01ff1038e1e195368db9a?rik=K%2fGQUZ2gIQrADg&pid=ImgRaw&r=0",
+        "image": "",
         "url": "https://videoclub-vert.vercel.app/series.w3u",
         "import": false
         },
@@ -19,14 +19,14 @@
         },
         {
         "name": "Peliculas",
-        "image": "https://th.bing.com/th/id/OIP.IQauVmk0tZ_AdParP-7vMwHaI9?rs=1&pid=ImgDetMain",
+        "image": "",
         "url": "https://videoclub-vert.vercel.app/peliculas.w3u",
         "info":"bY. lUCas",
         "import": false
         },
         {
         "name": "Documentales",
-        "image": "https://th.bing.com/th/id/OIP.BRbSEl2wdGF3YArWrdQj5gHaE8?rs=1&pid=ImgDetMain",
+        "image": "",
         "url": "https://videoclub-vert.vercel.app/documentales.w3u",
         "import": false
         },
