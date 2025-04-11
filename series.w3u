@@ -22,6 +22,12 @@
 "image": "https://pics.filmaffinity.com/1923-886435523-large.jpg",
 "url": "https://videoclub-vert.vercel.app/1923.w3u",
 "import": false
+},
+{
+"name": "1000 golpes",
+"image": "https://pics.filmaffinity.com/a_thousand_blows-470835074-large.jpg",
+"url": "https://videoclub-vert.vercel.app/1000golpes.w3u",
+"import": false
 }
 ]
 }
