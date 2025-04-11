@@ -8,7 +8,7 @@
 {
 "name": "Programa 1",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbGXsV-bMyBuwHfMbZ6Klf8yPE1JpQhS_jxQ&s=",
-"url": "https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SSPX2BB/mp4/8/2/1741261878828.mp4/1741261878828-audio=127909-video=996000.m3u8?hls_client_manifest_version=3&idasset=16479217",
+"url": "https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SSPX2BB/mp4/8/2/1741261878828.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16479217",
 "info": "[Español 2025]",
 "isHost": "true",
 "online": "true",
