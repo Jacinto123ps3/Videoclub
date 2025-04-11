@@ -7,6 +7,50 @@
 "stations":[
 
 {
+"name": "Programa 1",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbGXsV-bMyBuwHfMbZ6Klf8yPE1JpQhS_jxQ&s=",
+"url": "https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SSPX2BB/mp4/4/1/1743692043114.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16520210",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Programa 2",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbGXsV-bMyBuwHfMbZ6Klf8yPE1JpQhS_jxQ&s=",
+"url": "https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SSPX2BB/mp4/4/1/1743692043114.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16520210",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Programa 3",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbGXsV-bMyBuwHfMbZ6Klf8yPE1JpQhS_jxQ&s=",
+"url": "https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SSPX2BB/mp4/4/1/1743692043114.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16520210",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "Programa 4",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbGXsV-bMyBuwHfMbZ6Klf8yPE1JpQhS_jxQ&s=",
+"url": "https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SSPX2BB/mp4/4/1/1743692043114.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16520210",
+"info": "[Español 2024]",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent":"PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
 "name": "Programa 5",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbGXsV-bMyBuwHfMbZ6Klf8yPE1JpQhS_jxQ&s=",
 "url": "https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SSPX2BB/mp4/4/1/1743692043114.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16520210",
