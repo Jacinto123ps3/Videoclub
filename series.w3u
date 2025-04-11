@@ -5,12 +5,7 @@
 "url": "https://videoclub-vert.vercel.app/series.w3u",
 "groups":
 [
-{
-"name": "8 Show",
-"image": "https://pics.filmaffinity.com/the_8_show-257378497-large.jpg",
-"url": "https://videoclub-vert.vercel.app/show.w3u",
-"import": false
-},
+
 {
 "name": "Recetas para un asesinato",
 "image": "https://static.eldiario.es/clip/3352c28e-3ca9-4c81-971b-468937ddceba_source-aspect-ratio_default_1109818.jpg",
