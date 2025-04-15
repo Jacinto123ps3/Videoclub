@@ -13,7 +13,7 @@
 "isHost": "true",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
-"import": false
+"import": true
 },
 {
 "name": "Programa 2",
