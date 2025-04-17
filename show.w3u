@@ -32,7 +32,7 @@
 "url": "https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SSPX2BB/mp4/6/0/1742488793806.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16500415",
 "info": "[Español 2025]",
 "embed": "",
-"isHost": "true",
+"isHost": "false",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
@@ -43,7 +43,7 @@
 "url": "https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SSPX2BB/mp4/3/5/1743100457653.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16510510",
 "info": "[Español 2025]",
 "embed": "",
-"isHost": "true",
+"isHost": "false",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
@@ -54,7 +54,7 @@
 "url": "https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SSPX2BB/mp4/4/1/1743692043114.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16520210",
 "info": "[Español 2025]",
 "embed": "",
-"isHost": "true",
+"isHost": "false",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
@@ -65,7 +65,7 @@
 "url": "https://listeamed.net/v/qL0YEyw7LyQ5DRX",
 "info": "[Español 2025]",
 "embed": "",
-"isHost": "true",
+"isHost": "false",
 "online": "true",
 "userAgent":"PlusMediaPlayer/0.0.9",
 "import": false
