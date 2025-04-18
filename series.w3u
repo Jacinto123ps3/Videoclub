@@ -7,12 +7,6 @@
 [
 
 {
-"name": "Recetas para un asesinato",
-"image": "https://static.eldiario.es/clip/3352c28e-3ca9-4c81-971b-468937ddceba_source-aspect-ratio_default_1109818.jpg",
-"url": "https://videoclub-vert.vercel.app/recetas.w3u",
-"import": false
-},
-{
 "name": "1923",
 "image": "https://pics.filmaffinity.com/1923-886435523-large.jpg",
 "url": "https://videoclub-vert.vercel.app/1923.w3u",
@@ -27,7 +21,6 @@
 {
 		"name": "TWD Dead City",
 		"image": "https://i.postimg.cc/HsqX2cG7/The-Walking-Dead-Dead-City.png",
-		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.TWD.Dead.City.w3u",
 		"import": false
 		},
