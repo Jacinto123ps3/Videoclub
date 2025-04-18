@@ -23,6 +23,13 @@
 "image": "https://pics.filmaffinity.com/a_thousand_blows-470835074-large.jpg",
 "url": "https://videoclub-vert.vercel.app/1000golpes.w3u",
 "import": false
-}
+},
+{
+		"name": "TWD Dead City",
+		"image": "https://i.postimg.cc/HsqX2cG7/The-Walking-Dead-Dead-City.png",
+		"info": "bY. yIsus",
+		"url": "https://af1c1onados.vercel.app/Series.TWD.Dead.City.w3u",
+		"import": false
+		},
 ]
 }
