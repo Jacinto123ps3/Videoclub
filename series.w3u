@@ -19,6 +19,13 @@
 "import": false
 },
 {
+		"name": "Andor",
+		"image": "https://pics.filmaffinity.com/andor-868730434-large.jpg",
+		"info": "bY. Adri",
+		"url": "https://af1cionados.vercel.app/serie ANDOR.w3u",
+		"import": false
+		},
+{
 		"name": "Angela",
 		"url": "https://af1c1onados.vercel.app/Series.Angela.w3u",
 		"image":"https://pics.filmaffinity.com/angela-386948672-large.jpg",
